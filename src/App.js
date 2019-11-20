@@ -11,7 +11,7 @@ function App() {
         app! Have fun 🚀!
        
       </p> 
-      <AstronomyContainer />
+      {/* <AstronomyContainer /> */}
     
     </div>
   );
